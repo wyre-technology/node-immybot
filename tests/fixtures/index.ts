@@ -1,0 +1,10 @@
+export * as auth from './auth.js';
+export * as health from './health.js';
+export * as instance from './instance.js';
+export * as computers from './computers.js';
+export * as software from './software.js';
+export * as deployments from './deployments.js';
+export * as scripts from './scripts.js';
+export * as tenants from './tenants.js';
+export * as maintenanceSessions from './maintenance-sessions.js';
+export * as tasks from './tasks.js';
