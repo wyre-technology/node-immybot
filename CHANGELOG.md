@@ -1,3 +1,10 @@
+# 1.0.0 (2026-05-26)
+
+
+### Features
+
+* initial scaffold for @wyre-technology/node-immybot ([125737f](https://github.com/wyre-technology/node-immybot/commit/125737fe954127fd65bd5c9b952492265a126103))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
