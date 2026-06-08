@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/wyre-technology/node-immybot/compare/v1.0.0...v1.0.1) (2026-06-08)
+
+
+### Bug Fixes
+
+* **security:** bump vitest + @vitest/coverage-v8 1.x -> 3.2.6 ([#16](https://github.com/wyre-technology/node-immybot/issues/16)) ([5f8b8e4](https://github.com/wyre-technology/node-immybot/commit/5f8b8e4b41a51e60c3b2ea8d07a676d2662feba1))
+
 # 1.0.0 (2026-05-26)
 
 
