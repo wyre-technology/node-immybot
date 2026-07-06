@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/wyre-technology/node-immybot/compare/v1.0.1...v1.0.2) (2026-07-06)
+
+
+### Bug Fixes
+
+* **ci:** silence TS6 baseUrl deprecation so tsup DTS build passes ([#24](https://github.com/wyre-technology/node-immybot/issues/24)) ([59d6af6](https://github.com/wyre-technology/node-immybot/commit/59d6af686a30cd4767323638ea41bdbd7223b8b6)), closes [#7](https://github.com/wyre-technology/node-immybot/issues/7)
+
 ## [1.0.1](https://github.com/wyre-technology/node-immybot/compare/v1.0.0...v1.0.1) (2026-06-08)
 
 
