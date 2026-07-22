@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/wyre-technology/node-immybot/compare/v1.0.2...v1.0.3) (2026-07-22)
+
+
+### Bug Fixes
+
+* **deps:** re-pin typescript to ^6.0.3, TS7 native compiler breaks rollup-plugin-dts ([#29](https://github.com/wyre-technology/node-immybot/issues/29)) ([fcd2a64](https://github.com/wyre-technology/node-immybot/commit/fcd2a64e6fe3e0be121c1b0678d0bfd5d7187cd5)), closes [wyre-technology/blackpoint-mcp#44](https://github.com/wyre-technology/blackpoint-mcp/issues/44)
+
 ## [1.0.2](https://github.com/wyre-technology/node-immybot/compare/v1.0.1...v1.0.2) (2026-07-06)
 
 
